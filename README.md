@@ -1,2 +1,1 @@
-# MedDispencer Rasperry Pi
- 
+Main file from the medicine dispenser prototype. This team project was part of Opiframe’s embedded systems programming course at the end of 2023. My focus in this project was on the stepping motor and IR sensor API on the Raspberry Pi. The device starts rotating the stepping motor at specific times. When IR-sensor notice something in front of it, device lights up the LED. In the final version, this motor would move medicines in the carousel to the designated slot. When the medicines drop into the container, the IR sensor activates a notification LED. After the medicines have been taken, the LED turns off. I also started developing an Android app and a database for the prototype, but we ran out of time.
