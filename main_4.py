@@ -1,6 +1,5 @@
 # Import GPIO to control Raspberry PI pins
 # Import time and datetime to add delay and date to change current date
-# Import python codes change_time and create_lod_entry (miksi?)
 
 import RPi.GPIO as GPIO
 import time
